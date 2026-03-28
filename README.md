@@ -1,299 +1,266 @@
 <div align="center">
-  
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rajal%20Chovatiya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Data%20Analyst%20|%20Turning%20Data%20into%20Insights&descAlignY=52&descSize=18"/>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=5%2B+Years+of+Data+Analytics+Experience;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Machine+Learning+%26+Predictive+Modeling;Dashboard+Development+%26+Visualization;Let's+Transform+Data+into+Decisions!)](https://git.io/typing-svg)
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,9,5&height=200&section=header&text=Rajal%20Chovatiya&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20Data%20Analyst%20%7C%20Edmonton,%20Canada%20🇨🇦&descAlignY=55&descSize=16"/>
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=rajal68&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+<!-- Animated Subtitle -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Transforming+Data+into+Business+Value+📊;5%2B+Years+of+Analytics+Experience+💼;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+🛠️" alt="Typing SVG" /></a>
 
-<!-- Social Links -->
+<br/>
+
+<!-- Profile Badges -->
+<img src="https://komarev.com/ghpvc/?username=rajal68&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/rajal68?label=Followers&style=flat-square&color=blue" alt="Followers"/>
+<img src="https://img.shields.io/badge/Focus-Data%20Analytics-brightgreen?style=flat-square" alt="Focus"/>
+<img src="https://img.shields.io/badge/Location-Edmonton%2C%20Canada-red?style=flat-square" alt="Location"/>
+
+<br/><br/>
+
+<!-- Quick Links -->
+<a href="https://linkedin.com/in/rajal-chovatiya"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:rajalrchovatiya@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/rajal68"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtMnRnZHd0Y2d3bWVocHJ0Y2Y2NWFpZXN1cHVqcWV3dWt5ZWlmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+**`Digital Craftsman (Data Analyst / BI Developer / ML Enthusiast)`**
+
+I'm a **Senior Data Analyst** with **5+ years** of experience turning raw data into actionable insights. Currently based in **Edmonton, Canada**, I specialize in building dashboards, predictive models, and data pipelines that drive business decisions.
+
+- 🏢 &nbsp;Currently working at **Canada Tire**
+- 🎓 &nbsp;Background in **Data Science & Analytics**
+- 💼 &nbsp;Previously at **BMO**, **Desjardins**, **Telus**
+- 🔭 &nbsp;Passionate about **Machine Learning** & **Business Intelligence**
+- 📊 &nbsp;Love building **interactive dashboards**
+- 💬 &nbsp;Ask me about **SQL, Python, Power BI, Tableau**
+
+<br clear="both"/>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3p9&rid=giphy.gif" width="30"> Tech Stack
+
+<div align="center">
+
+### 💻 Languages & Databases
 <p>
-<a href="https://linkedin.com/in/rajal-chovatiya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:rajalrchovatiya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/rajal68"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,mongodb&theme=dark" />
+</p>
+
+### 📊 Visualization & BI Tools
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+### 🤖 Machine Learning & Analytics
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=azure,aws,git,github,docker&theme=dark" />
 </p>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-```python
-class DataAnalyst:
-    def __init__(self):
-        self.name = "Rajal Chovatiya"
-        self.role = "Senior Data Analyst"
-        self.location = "Edmonton, Canada 🇨🇦"
-        self.experience = "5+ Years"
-        
-    def current_work(self):
-        return {
-            "company": "Canada Tire",
-            "focus": ["Data Analytics", "Business Intelligence", "Predictive Modeling"]
-        }
-    
-    def skills(self):
-        return {
-            "languages": ["Python", "SQL", "R"],
-            "visualization": ["Power BI", "Tableau", "Matplotlib", "Seaborn"],
-            "databases": ["PostgreSQL", "MySQL", "SQL Server"],
-            "cloud": ["Azure", "AWS"],
-            "ml_libraries": ["Scikit-learn", "XGBoost", "Pandas", "NumPy"]
-        }
-    
-    def past_experience(self):
-        return ["BMO", "Desjardins", "Telus"]
+<br/>
 
-me = DataAnalyst()
-```
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
----
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rajal68&show_icons=true&count_private=true&hide_border=true&title_color=A960FF&icon_color=A960FF&text_color=c9d1d9&bg_color=0d1117" alt="Rajal Chovatiya github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajal68&layout=compact&hide_border=true&title_color=A960FF&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
-## 📊 GitHub Activity
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajal68&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=A960FF&fire=A960FF&currStreakLabel=A960FF" alt="Rajal Chovatiya streak stats"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajal68&custom_title=Rajal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=A960FF&line=A960FF&point=FFFFFF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> Featured Projects
 
 <div align="center">
 
-<!-- Snake Animation -->
+<a href="https://github.com/rajal68/Customer-Churn-Prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajal68&repo=Customer-Churn-Prediction&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=c9d1d9&icon_color=A960FF" />
+</a>
+<a href="https://github.com/rajal68/Sql-Queries">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajal68&repo=Sql-Queries&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=c9d1d9&icon_color=A960FF" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/rajal68/DataScience-Job-Dashboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajal68&repo=DataScience-Job-Dashboard&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=c9d1d9&icon_color=A960FF" />
+</a>
+<a href="https://github.com/rajal68/Pizza-Sales-Analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajal68&repo=Pizza-Sales-Analysis&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=c9d1d9&icon_color=A960FF" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/rajal68/EMPLOYEE-ATTRITION-OVERVIEW">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajal68&repo=EMPLOYEE-ATTRITION-OVERVIEW&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=c9d1d9&icon_color=A960FF" />
+</a>
+<a href="https://github.com/rajal68/Superstore-Sales-Analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajal68&repo=Superstore-Sales-Analysis&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=c9d1d9&icon_color=A960FF" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/rajal68/Cricket-Dashboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajal68&repo=Cricket-Dashboard&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=c9d1d9&icon_color=A960FF" />
+</a>
+<a href="https://github.com/rajal68/HaaMoj">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajal68&repo=HaaMoj&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=c9d1d9&icon_color=A960FF" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> Professional Journey
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║  🏢 CANADA TIRE              🏦 BMO                    🏢 DESJARDINS        ║
+║  ─────────────              ─────                     ────────────          ║
+║  Senior Data Analyst        Data Analyst              Data Analyst          ║
+║  📍 Edmonton, Canada        📍 Toronto, Canada        📍 Montreal, Canada   ║
+║  📅 2022 - Present          📅 2020 - 2022            📅 2019 - 2020        ║
+║                                                                              ║
+║  • Fraud Analytics          • Risk Modeling           • BI Reporting        ║
+║  • Predictive Modeling      • Customer Analytics      • ETL Development     ║
+║  • Dashboard Development    • SQL Optimization        • Data Visualization  ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect!
+
+<div align="center">
+
+<p>I'm always open to interesting conversations, collaborations, and opportunities!</p>
+
+<a href="https://linkedin.com/in/rajal-chovatiya" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:rajalrchovatiya@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://github.com/rajal68" target="_blank">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+📧 **rajalrchovatiya@gmail.com** &nbsp;|&nbsp; 📍 **Edmonton, Alberta, Canada**
+
+<br/>
+
+### 💼 Open To Opportunities
+
+<img src="https://img.shields.io/badge/Data%20Analyst-Open-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Senior%20Data%20Analyst-Open-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BI%20Developer-Open-brightgreen?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+<div align="center">
+
+### 💭 Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+
+<br/><br/>
+
+### 🐍 Watch My Contributions Get Eaten
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajal68/rajal68/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajal68/rajal68/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/rajal68/rajal68/output/github-snake-dark.svg" />
 </picture>
 
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajal68&custom_title=Contribution%20Graph&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&area_color=26A641&area=true&hide_border=true" width="100%"/>
-
 </div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages & Databases
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Visualization & BI
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-### Machine Learning & Libraries
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
-
-### Cloud & Tools
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 📊 Data Analytics & Business Intelligence
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔄 [Customer Churn Prediction](https://github.com/rajal68/Customer-Churn-Prediction)
-![Python](https://img.shields.io/badge/Python-ML-green?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Complete-success?style=flat-square)
-
-Machine Learning model to predict customer churn:
-- 🔹 Predictive Analytics
-- 🔹 Feature Engineering
-- 🔹 Classification Models
-- 🔹 Business Insights
-
-</td>
-<td width="50%">
-
-### 📊 [SQL Portfolio](https://github.com/rajal68/Sql-Queries)
-![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14+-336791?style=flat-square)
-
-Advanced SQL queries demonstrating:
-- 🔹 Window Functions & CTEs
-- 🔹 Customer Analytics & RFM
-- 🔹 Fraud Detection Patterns
-- 🔹 Performance Optimization
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💼 [Data Science Jobs Dashboard](https://github.com/rajal68/DataScience-Job-Dashboard)
-![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange?style=flat-square)
-![Records](https://img.shields.io/badge/Records-607-blue?style=flat-square)
-
-Interactive Tableau dashboard analyzing:
-- 🔹 Salary Trends (2020-2022)
-- 🔹 Experience Level Analysis
-- 🔹 Remote Work Impact
-- 🔹 Geographic Insights
-
-</td>
-<td width="50%">
-
-### 🍕 [Pizza Sales Analysis](https://github.com/rajal68/Pizza-Sales-Analysis)
-![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-yellow?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-Analysis-blue?style=flat-square)
-
-Comprehensive sales analysis:
-- 🔹 Revenue Analytics
-- 🔹 Product Performance
-- 🔹 Peak Hours Analysis
-- 🔹 Interactive Dashboards
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 👥 [Employee Attrition Overview](https://github.com/rajal68/EMPLOYEE-ATTRITION-OVERVIEW)
-![HR Analytics](https://img.shields.io/badge/HR-Analytics-purple?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-yellow?style=flat-square)
-
-HR Analytics Dashboard:
-- 🔹 Attrition Prediction
-- 🔹 Workforce Analytics
-- 🔹 Department Analysis
-- 🔹 Retention Insights
-
-</td>
-<td width="50%">
-
-### 🏪 [Superstore Sales Analysis](https://github.com/rajal68/Superstore-Sales-Analysis)
-![Analysis](https://img.shields.io/badge/Sales-Analysis-green?style=flat-square)
-![Visualization](https://img.shields.io/badge/Data-Viz-blue?style=flat-square)
-
-Retail sales performance:
-- 🔹 Regional Analysis
-- 🔹 Product Categories
-- 🔹 Profit Margins
-- 🔹 Trend Analysis
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏏 [Cricket Dashboard](https://github.com/rajal68/Cricket-Dashboard)
-![Sports](https://img.shields.io/badge/Sports-Analytics-red?style=flat-square)
-![Dashboard](https://img.shields.io/badge/Interactive-Dashboard-blue?style=flat-square)
-
-Sports analytics dashboard:
-- 🔹 Player Statistics
-- 🔹 Match Analysis
-- 🔹 Performance Metrics
-- 🔹 Visual Insights
-
-</td>
-<td width="50%">
-
-### 🌐 [HaaMoj](https://github.com/rajal68/HaaMoj)
-![Application](https://img.shields.io/badge/App-Development-teal?style=flat-square)
-
-Application development project:
-- 🔹 Full-Stack Development
-- 🔹 User Interface Design
-- 🔹 Backend Integration
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📈 Experience Highlights
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│   🏢 CANADA TIRE          │   🏦 BMO              │   🏢 DESJARDINS        │
-│   Senior Data Analyst     │   Data Analyst        │   Data Analyst         │
-│   Edmonton, Canada        │   Toronto, Canada     │   Montreal, Canada     │
-│   2022 - Present          │   2020 - 2022         │   2019 - 2020          │
-│                                                                             │
-│   ▸ Fraud Analytics       │   ▸ Risk Modeling     │   ▸ BI Reporting       │
-│   ▸ Predictive Models     │   ▸ Customer Analytics│   ▸ ETL Development    │
-│   ▸ Dashboard Development │   ▸ SQL Optimization  │   ▸ Data Visualization │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## 🎯 What I Do
-
-<div align="center">
-
-| Area | Description |
-|------|-------------|
-| 📊 **Data Analysis** | Transform raw data into actionable insights using Python, SQL, and statistical methods |
-| 📈 **Business Intelligence** | Build interactive dashboards in Power BI & Tableau for executive decision-making |
-| 🤖 **Machine Learning** | Develop predictive models for churn, fraud detection, and forecasting |
-| 🔍 **Fraud Analytics** | Design anomaly detection systems and risk scoring algorithms |
-| 📉 **ETL & Data Engineering** | Create robust data pipelines for automated reporting and analysis |
-
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-<a href="https://linkedin.com/in/rajal-chovatiya">
-  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-📧 **Email:** rajalrchovatiya@gmail.com  
-📍 **Location:** Edmonton, Alberta, Canada  
-💼 **Open to:** Data Analyst | Senior Data Analyst | BI Developer Opportunities
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 *"In God we trust. All others must bring data."* — W. Edwards Deming
 
 <br/>
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=120&section=footer&animation=fadeIn"/>
