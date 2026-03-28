@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rajal%20Chovatiya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Data%20Analyst%20|%20Turning%20Data%20into%20Insights&descAlignY=52&descSize=18"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=5%2B+Years+of+Data+Analytics+Experience;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Machine+Learning+%26+Predictive+Modeling;Fraud+Analytics+%26+Risk+Management;Let's+Transform+Data+into+Decisions!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=5%2B+Years+of+Data+Analytics+Experience;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Machine+Learning+%26+Predictive+Modeling;Dashboard+Development+%26+Visualization;Let's+Transform+Data+into+Decisions!)](https://git.io/typing-svg)
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=rajal68&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
@@ -64,11 +64,6 @@ me = DataAnalyst()
   <img alt="github-snake" src="https://raw.githubusercontent.com/rajal68/rajal68/output/github-snake-dark.svg" />
 </picture>
 
-<br/>
-
-<!-- Alternative: If snake doesn't work, use this animated contribution grid -->
-<img src="https://github.com/rajal68/rajal68/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
 <br/><br/>
 
 <!-- Activity Graph -->
@@ -116,56 +111,116 @@ me = DataAnalyst()
 
 <div align="center">
 
+### 📊 Data Analytics & Business Intelligence
+
 <table>
 <tr>
 <td width="50%">
 
-### 📊 [SQL Portfolio](https://github.com/rajal68/sql-portfolio)
-<img src="https://img.shields.io/badge/SQL-Advanced-blue?style=flat-square"/> <img src="https://img.shields.io/badge/PostgreSQL-14+-336791?style=flat-square"/>
+### 🔄 [Customer Churn Prediction](https://github.com/rajal68/Customer-Churn-Prediction)
+![Python](https://img.shields.io/badge/Python-ML-green?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Complete-success?style=flat-square)
 
-Advanced SQL queries demonstrating expertise in:
-- 🔹 Window Functions & CTEs
-- 🔹 Customer Analytics & RFM
-- 🔹 Fraud Detection Patterns
-- 🔹 Sales Analysis & Reporting
+Machine Learning model to predict customer churn:
+- 🔹 Predictive Analytics
+- 🔹 Feature Engineering
+- 🔹 Classification Models
+- 🔹 Business Insights
 
 </td>
 <td width="50%">
 
-### 🔄 [Customer Churn Prediction](https://github.com/rajal68/customer-churn-prediction)
-<img src="https://img.shields.io/badge/Python-ML-green?style=flat-square"/> <img src="https://img.shields.io/badge/Accuracy-86%25-success?style=flat-square"/>
+### 📊 [SQL Portfolio](https://github.com/rajal68/Sql-Queries)
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14+-336791?style=flat-square)
 
-Machine Learning model to predict customer churn:
-- 🔹 Random Forest & XGBoost
-- 🔹 Feature Engineering
-- 🔹 86.2% Accuracy | 0.91 AUC-ROC
-- 🔹 Business Recommendations
+Advanced SQL queries demonstrating:
+- 🔹 Window Functions & CTEs
+- 🔹 Customer Analytics & RFM
+- 🔹 Fraud Detection Patterns
+- 🔹 Performance Optimization
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🔒 [Fraud Detection Model](https://github.com/rajal68/fraud-detection-model)
-<img src="https://img.shields.io/badge/Python-Ensemble-red?style=flat-square"/> <img src="https://img.shields.io/badge/Precision-94%25-success?style=flat-square"/>
+### 💼 [Data Science Jobs Dashboard](https://github.com/rajal68/DataScience-Job-Dashboard)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange?style=flat-square)
+![Records](https://img.shields.io/badge/Records-607-blue?style=flat-square)
 
-Real-time fraud detection system:
-- 🔹 Ensemble ML (RF + XGBoost + LR)
-- 🔹 SMOTE for Imbalanced Data
-- 🔹 94.3% Precision | 0.98 AUC
-- 🔹 Risk Scoring System
+Interactive Tableau dashboard analyzing:
+- 🔹 Salary Trends (2020-2022)
+- 🔹 Experience Level Analysis
+- 🔹 Remote Work Impact
+- 🔹 Geographic Insights
 
 </td>
 <td width="50%">
 
-### 📈 [Sales Dashboard Analysis](https://github.com/rajal68/sales-dashboard-analysis)
-<img src="https://img.shields.io/badge/Power_BI-Dashboard-yellow?style=flat-square"/> <img src="https://img.shields.io/badge/Python-ETL-blue?style=flat-square"/>
+### 🍕 [Pizza Sales Analysis](https://github.com/rajal68/Pizza-Sales-Analysis)
+![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-yellow?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-Analysis-blue?style=flat-square)
 
-Interactive sales analytics dashboard:
-- 🔹 Power BI with DAX Measures
-- 🔹 Python ETL Pipeline
-- 🔹 KPIs & Regional Analysis
-- 🔹 YoY Growth Tracking
+Comprehensive sales analysis:
+- 🔹 Revenue Analytics
+- 🔹 Product Performance
+- 🔹 Peak Hours Analysis
+- 🔹 Interactive Dashboards
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 👥 [Employee Attrition Overview](https://github.com/rajal68/EMPLOYEE-ATTRITION-OVERVIEW)
+![HR Analytics](https://img.shields.io/badge/HR-Analytics-purple?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-yellow?style=flat-square)
+
+HR Analytics Dashboard:
+- 🔹 Attrition Prediction
+- 🔹 Workforce Analytics
+- 🔹 Department Analysis
+- 🔹 Retention Insights
+
+</td>
+<td width="50%">
+
+### 🏪 [Superstore Sales Analysis](https://github.com/rajal68/Superstore-Sales-Analysis)
+![Analysis](https://img.shields.io/badge/Sales-Analysis-green?style=flat-square)
+![Visualization](https://img.shields.io/badge/Data-Viz-blue?style=flat-square)
+
+Retail sales performance:
+- 🔹 Regional Analysis
+- 🔹 Product Categories
+- 🔹 Profit Margins
+- 🔹 Trend Analysis
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏏 [Cricket Dashboard](https://github.com/rajal68/Cricket-Dashboard)
+![Sports](https://img.shields.io/badge/Sports-Analytics-red?style=flat-square)
+![Dashboard](https://img.shields.io/badge/Interactive-Dashboard-blue?style=flat-square)
+
+Sports analytics dashboard:
+- 🔹 Player Statistics
+- 🔹 Match Analysis
+- 🔹 Performance Metrics
+- 🔹 Visual Insights
+
+</td>
+<td width="50%">
+
+### 🌐 [HaaMoj](https://github.com/rajal68/HaaMoj)
+![Application](https://img.shields.io/badge/App-Development-teal?style=flat-square)
+
+Application development project:
+- 🔹 Full-Stack Development
+- 🔹 User Interface Design
+- 🔹 Backend Integration
 
 </td>
 </tr>
